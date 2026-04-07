@@ -115,7 +115,7 @@ const Contact = () => {
               </p>
               <a
                 href="/HarshavardhanNandi_Resume_DE.pdf"
-                download="HarshavardhanNandi_Resume.pdf"
+                download="HarshavardhanNandi_Resume_DE.pdf"
                 className="inline-block px-6 py-3 bg-white text-sky-600 rounded-full font-medium hover:shadow-lg hover:-translate-y-0.5 transition-all"
               >
                 Download CV
