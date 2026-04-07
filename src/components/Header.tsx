@@ -68,7 +68,7 @@ const Header = () => {
             ))}
             <a
               href="/HarshavardhanNandi_Resume_DE.pdf"
-              download="HarshavardhanNandi_Resume.pdf"
+              download="HarshavardhanNandi_Resume_DE.pdf"
               className="px-5 py-2.5 bg-gradient-to-r from-sky-500 to-indigo-600 text-white rounded-full text-sm font-medium hover:shadow-lg hover:-translate-y-0.5 transition-all"
             >
               Download CV
@@ -102,7 +102,7 @@ const Header = () => {
             ))}
             <a
               href="/HarshavardhanNandi_Resume_DE.pdf"
-              download="HarshavardhanNandi_Resume.pdf"
+              download="HarshavardhanNandi_Resume_DE.pdf"
               className="px-5 py-2.5 bg-gradient-to-r from-sky-500 to-indigo-600 text-white rounded-full text-sm font-medium text-center"
             >
               Download CV
